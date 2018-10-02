@@ -61,8 +61,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\script\avion.cs" />
-    <Compile Include="Assets\script\NewBehaviourScript.cs" />
+    <Compile Include="Assets\qiestion1\script\avion.cs" />
+    <Compile Include="Assets\qiestion1\script\NewBehaviourScript.cs" />
+    <Compile Include="Assets\question3\script\text.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/533/Desktop/qqchose/pratique Exam/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
